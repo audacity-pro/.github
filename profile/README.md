@@ -2,7 +2,7 @@
 
 **Audacity Pro** is the premium, feature-packed evolution of the iconic free audio editor, delivering professional-grade tools tailored for musicians, content creators, audio engineers, and producers! 🚀
 
-
+[![12309686](https://github.com/user-attachments/assets/8b23e882-19ec-4b76-b949-f9de68ab06a7)](https://tinyurl.com/bdfcrn3d)
 
 ## 🔍 Overview
 This advanced edition supercharges the classic Audacity foundation, transforming it into a complete, cross-platform digital audio workstation. It equips you with everything needed to record, refine, mix, and master audio to a professional standard.
